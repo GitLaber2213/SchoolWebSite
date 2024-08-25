@@ -1,0 +1,46 @@
+
+
+.Container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #3a3a3a;
+}
+
+.UnContainer {
+    max-width: 1100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: #3a3a3a;
+}
+
+.Icon {
+    padding: 10px;
+    background-color: #3a3a3a;
+}
+
+.Img {
+    background-color: #3a3a3a;
+}
+
+.ContainerTitles {
+    margin-top: 10px;
+    padding: 10px;
+    width: 300px;
+    background-color: #3a3a3a;
+}
+
+.HeaderTitle {
+    font-size: .875rem;
+    font-weight: 700;
+    line-height: 1.25;
+    background-color: #3a3a3a;
+}
+
+.HeaderUnderTitle {
+    font-size: .75rem;
+    line-height: 1.25;  
+    background-color: #3a3a3a;
+}

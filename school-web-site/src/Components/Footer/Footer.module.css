@@ -1,0 +1,47 @@
+.Container {
+    width: 100%;
+    height: 100px;
+    background-color: #3a3a3a;
+}
+
+.UnContainer {
+    max-width: 1100px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    background-color: #3a3a3a;
+}
+
+.PhoneBlock {
+    margin: 20px;
+    padding-left: 170px;
+    background-color: #3a3a3a;
+}
+
+.FaxBlock {
+    margin: 20px;
+    padding-left: 170px;
+    background-color: #3a3a3a;
+}
+
+.EmailBlock {
+    margin: 20px;
+    padding-left: 170px;
+    background-color: #3a3a3a;
+}
+
+.PhoneBlock div {
+    background-color: #3a3a3a;
+    padding-top: 10px;
+}
+
+.FaxBlock div {
+    background-color: #3a3a3a;
+    padding-top: 10px;
+}
+
+.EmailBlock div {
+    background-color: #3a3a3a;
+    padding-top: 10px;
+}

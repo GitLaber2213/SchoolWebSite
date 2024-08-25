@@ -1,0 +1,55 @@
+.Container {
+    position: relative;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-color: #3a3a3a;
+}
+
+.HeaderBlock {
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 10px;
+    background-color: #3a3a3a;
+}
+
+.TextBlock {
+    margin-top: 5px;
+    margin-bottom: 10px;
+    background-color: #3a3a3a;
+}
+
+.ImgContainer {
+    position: relative;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+
+.BgImage {
+    position: absolute;
+    left: 0.1%;
+    width: 100%;
+    filter: blur(30px);
+
+}
+
+.ImgBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 490px;
+    border-radius: 20px;
+}
+
+.Img {
+    margin-bottom: 10px;
+    text-align: center;
+    position: relative;
+    z-index: 10;
+}
+
+.ImgBlock img {
+    border-radius: 20px;
+}

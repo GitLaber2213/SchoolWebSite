@@ -1,0 +1,15 @@
+.Container {
+    margin-top: 10px;
+    background-color: #3a3a3a;
+    width: 70%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    min-height: calc(100vh - 100px);
+}
+
+.UnContainer {
+    padding: 10px;
+    word-wrap: break-word;
+    background-color: #3a3a3a;
+    border-radius: 20px;
+}

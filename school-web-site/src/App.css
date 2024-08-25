@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(26, 24, 24);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(235, 234, 234);
+}
+
+.App {
+    font-family: «Times New Roman», Times, serif;
+    color: rgb(235, 234, 234);
+    
+}
+
+.Body {
+    width: 1100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+}

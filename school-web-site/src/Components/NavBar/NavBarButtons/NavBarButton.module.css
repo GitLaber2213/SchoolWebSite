@@ -1,0 +1,41 @@
+.Button {
+    height: 60px;
+    border-bottom: 1px sandybrown solid;
+    background-color: #3a3a3a;
+    cursor: pointer;
+}
+
+.Button a {
+    display: table;
+}
+
+.Img {
+    background-color: #3a3a3a;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.ImgActive {
+    background-color: #6d5038;
+    display: table-cell;
+    vertical-align: middle;
+    padding: 10px;
+}
+
+.ButtonText {
+    width: 100%;
+    padding-left: 10px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #3a3a3a;
+}
+
+.ButtonTextActive {
+    width: 100%;
+    padding-left: 10px;
+    display: table-cell;
+    vertical-align: middle;
+    background-color: #6d5038;
+}
+

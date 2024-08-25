@@ -1,0 +1,9 @@
+.Container {
+    text-align: center;
+    background-color: #3a3a3a;
+}
+
+.Container a{
+    background-color: #3a3a3a;
+    margin-left: 10px;
+}
